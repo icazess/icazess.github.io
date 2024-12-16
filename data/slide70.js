@@ -1,0 +1,10 @@
+(function(){var loadHandler=window['sl_{CDD08E66-49E4-43E3-909F-F0F3AC5C4321}'];loadHandler&&loadHandler(69, '<div id="spr0_3175152e"><div id="spr1_3175152e" class="kern slide"><img id="img5_3175152e" src="data/img12.png" width="1800px" height="810px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_3175152e" class="kern slide"><div id="spr3_3175152e"><img id="img0_3175152e" src="data/img210.png" width="1800" height="811" alt="" style="top:-0.5px;"/></div><div id="spr4_3175152e" style="top:70.857px;"><img id="img1_3175152e" src="data/img211.png" width="1800" height="740" alt="" style="top:-0.429px;"/></div><div id="spr5_3175152e" style="left:602.329px;top:8.106px;"><img id="img2_3175152e" src="data/img200.png" width="634" height="114" alt="" style="left:-0.141px;top:-0.044px;"/></div><div id="spr6_3175152e" style="left:166px;top:163px;"><img id="img3_3175152e" src="data/img218.png" width="1482" height="558" alt="Urutkan data dari yang terkecil hingga yang terbesar\
+Data asli : 15 m, 10 m, 16 m, 13 m, 9 m, 8 m, 16 m, 14 m, 17 m.\
+Data setelah diurutkan : 8 m, 9 m, 10 m, 13 m, 14 m, 15 m, 16 m, 16 m, 17 m.\
+Karena banyak data (n) adalah 9, maka\
+𝑀𝑒= 𝑋  𝑛+1 2   \
+𝑀𝑒= 𝑋  9+1 2   \
+𝑀𝑒= 𝑋  10 2  = 𝑋 5  = 14 m\
+Artinya, median berada pada posisi ke-5 dalam urutan data. Dimana Posisi ke-5 adalah 14 m. \
+Jadi, median dari data yang diberikan adalah 14 meter\
+"/></div><div id="spr7_3175152e" style="left:1652.564px;top:0px;"><a id="hl0_3175152e" href="#" onclick="document.getElementById(\'coreSpr_6833541\').getCore().processTriggerEffect(this);document.getElementById(\'coreSpr_6833541\').getCore().playHyperlinkSound(\'sound116\', this);document.getElementById(\'coreSpr_6833541\').getCore().gotoSlide(68, this);return false;"><img id="img4_3175152e" src="data/img131.png" width="126" height="122" alt="" style="left:0.076px;top:-0.248px;"/></a></div></div></div>', '{"s":[]}');})();
